@@ -16,7 +16,7 @@ I’m a Grammy Award-winning audio engineer, producer, and musician with over fi
 - **Willie Nelson**
 - ...and many more
 
-My passion spans the realms of country, Americana, jazz, and beyond. I’ve contributed to major motion pictures, national TV shows, and documentaries—not just as an engineer and producer, but also as a composer.
+My passion spans the realms of Rock, Fusion, Country, Americana, jazz, and beyond. I’ve contributed to major motion pictures, national TV shows, and documentaries—not just as an engineer and producer, but also as a composer.
 
 ---
 
