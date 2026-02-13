@@ -1,56 +1,56 @@
-# 👋 Hi, I'm Larry Seyer (rhymes with "FIRE")!
+# 👋 Hi, I'm Larry Seyer (rhymes with "FIRE")
 
-**Grammy Award-winning Audio Engineer, Producer, Musician, and Innovator**
-
----
-
-## 🎵 About Me
-
-I’m a Grammy Award-winning audio engineer, producer, and musician with over five decades of experience. I’ve had the honor of working with legendary artists such as:
-
-- **Asleep at the Wheel**
-- **Lyle Lovett**
-- **George Strait**
-- **Dixie Chicks**
-- **Dolly Parton**
-- **Willie Nelson**
-- ...and many more
-
-My passion spans the realms of Rock, Fusion, Country, Americana, jazz, and beyond. I’ve contributed to major motion pictures, national TV shows, and documentaries—not just as an engineer and producer, but also as a composer.
+**Grammy-winning audio engineer, now building the tools I wish existed.**
 
 ---
 
-## 🏆 Key Achievements
+## About Me
 
-- 🎤 **Multiple Grammy Awards** for engineering and production
-- 💿 **Platinum records** with top-tier artists
-- 🥁 Creator of the [Larry Seyer Acoustic Drums](http://www.larryseyer.com/drums/) sample library
-- 🎬 Composer for motion pictures, TV, and documentaries
-- 💡 Pioneer in **audio software development** and sound sampling
+I spent decades behind the console—engineering and producing records for artists like Willie Nelson, Dolly Parton, George Strait, Lyle Lovett, Asleep at the Wheel, and the Dixie Chicks. Multiple Grammys, platinum records, film scores—the whole journey.
+
+Now I'm retired and writing open source software.
+
+---
+
+## 🎵 Music Production Tools
+
+After a lifetime in studios, I started building tools for fellow musicians:
+
+- **[OTTO](https://github.com/larryseyer/OTTO)** — Organic tempo orchestration that breathes like a real drummer
+- **[GRIM](https://github.com/larryseyer/GRIM-for-Reaper)** — Scene-based loop station for REAPER with integrated OTTO
+- **[midi2button](https://github.com/larryseyer/midi2button)** — MIDI utilities that just work
+
+---
+
+## 📰 Journalism
+
+I got frustrated with sensationalized news and built something different:
+
+- **[JTF News](https://github.com/larryseyer/jtfnews)** — 24/7 stream reporting only verified facts from multiple sources. No opinions. No adjectives. No drama.
 
 ---
 
 ## 🎙️ The Larry Seyer Show
 
-**Join me every Thursday at 7:00 PM Central Time**  
-A weekly live-stream featuring original music, humor, and interactive entertainment.
+**Thursdays at 7:00 PM Central**
+Original music, humor, and live interaction.
 
-Catch the show here:  
 [YouTube](https://youtube.com/larryseyer) | [Facebook](https://facebook.com/larryseyer) | [Twitch](https://twitch.tv/larryseyer) | [Rumble](https://rumble.com/user/larryseyer)
 
 ---
 
-## 🌐 Connect with Me
+## Support My Work
 
-- [🌎 Website](http://LarrySeyer.com)
-- [📧 Contact](http://LarrySeyer.com/contact)
-- [YouTube](https://youtube.com/larryseyer)
-- [Facebook](https://facebook.com/larryseyer)
-- [Twitch](https://twitch.tv/larryseyer)
-- [Rumble](https://rumble.com/user/larryseyer)
+All my projects are MIT licensed and free. If you find value in what I build:
 
-For collaborations, inquiries, or just to say hello, reach out through my [website](http://LarrySeyer.com) or any of the above platforms.
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa)](https://github.com/sponsors/larryseyer)
 
 ---
 
-_“Innovation, creativity, and a passion for music—these are the keys to lasting impact.”_
+## Connect
+
+[Website](http://LarrySeyer.com) · [Contact](http://LarrySeyer.com/contact) · [YouTube](https://youtube.com/larryseyer)
+
+---
+
+_"If it should exist and doesn't, I'll build it and give it away."_
