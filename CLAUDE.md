@@ -27,3 +27,12 @@ When updating, maintain the existing tone and structure unless specifically aske
 ## Note on migration.md
 
 The `migration.md` file contains instructions for migrating larryseyer.com to GitHub Pages. This work belongs in a **different repository** (`larryseyer.github.io`), not here. The file is kept here for reference/planning purposes only.
+
+## Website Deploy Location
+
+The larryseyer.com website files are at:
+```
+/Users/larryseyer/larryseyer.github.io
+```
+
+This GitHub Pages repo serves both `larryseyer.github.io` and `larryseyer.com`.
