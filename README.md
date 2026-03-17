@@ -41,7 +41,7 @@ Original music, humor, and live interaction.
 
 ## Support My Work
 
-All my projects are MIT licensed and free. If you find value in what I build:
+Most of my projects are MIT licensed and free. OTTO uses a different licensing model—see its project page for details. If you find value in what I build:
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa)](https://github.com/sponsors/larryseyer)
 
