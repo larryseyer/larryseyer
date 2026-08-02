@@ -13,7 +13,7 @@ This is a **GitHub profile repository** (`larryseyer/larryseyer`). The README.md
 | File | Purpose |
 |------|---------|
 | `README.md` | Profile content displayed on GitHub profile |
-| `migration.md` | Working document for a **separate project** (`larryseyer.github.io` website migration) |
+| `todo.md` | Deferred work not yet done in this repo |
 
 ## Editing the Profile
 
@@ -24,9 +24,12 @@ The `README.md` uses standard GitHub-flavored markdown. Current sections:
 
 When updating, maintain the existing tone and structure unless specifically asked to redesign.
 
-## Note on migration.md
+## Licensing Claims
 
-The `migration.md` file contains instructions for migrating larryseyer.com to GitHub Pages. This work belongs in a **different repository** (`larryseyer.github.io`), not here. The file is kept here for reference/planning purposes only.
+The README states licenses per project. Verify against each project's `LICENSE` file before
+changing that wording — the family moved from AGPLv3 to proprietary on 2026-08-01, and only
+midi2button is MIT. Do not link to `github.com/larryseyer/OTTO`, `.../IDA`, or
+`.../GRIM-for-Reaper`: those repos are private or deleted and 404 for visitors.
 
 ## Website Deploy Location
 

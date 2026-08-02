@@ -8,7 +8,7 @@
 
 I spent decades behind the console—engineering and producing records for artists like Willie Nelson, Dolly Parton, George Strait, Lyle Lovett, Asleep at the Wheel, and the Dixie Chicks. Multiple Grammys, platinum records, film scores—the whole journey.
 
-Now I'm retired and writing open source software.
+Now I'm retired and writing software — some of it open source, some of it commercial.
 
 ---
 
@@ -16,8 +16,8 @@ Now I'm retired and writing open source software.
 
 After a lifetime in studios, I started building tools for fellow musicians:
 
-- **[OTTO](https://github.com/larryseyer/OTTO)** — Organic tempo orchestration that breathes like a real drummer
-- **[GRIM](https://github.com/larryseyer/GRIM-for-Reaper)** — Scene-based loop station for REAPER with integrated OTTO
+- **[OTTO](https://larryseyer.com/pages/projects/otto.html)** — Organic tempo orchestration that breathes like a real drummer
+- **[GRIM](https://larryseyer.com/pages/projects/grim.html)** — Scene-based loop station for REAPER with integrated OTTO
 - **[midi2button](https://github.com/larryseyer/midi2button)** — MIDI utilities that just work
 
 ---
@@ -41,7 +41,7 @@ Original music, humor, and live interaction.
 
 ## Support My Work
 
-Most of my projects are MIT licensed and free. OTTO uses a different licensing model—see its project page for details. If you find value in what I build:
+Licensing varies by project: midi2button is MIT, JTF News is Creative Commons (CC BY-SA 4.0), and OTTO and GRIM are commercial, proprietary software. If you find value in what I build:
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa)](https://github.com/sponsors/larryseyer)
 
@@ -53,4 +53,4 @@ Most of my projects are MIT licensed and free. OTTO uses a different licensing m
 
 ---
 
-_"If it should exist and doesn't, I'll build it and give it away."_
+_"If it should exist and doesn't, I'll build it — and give away what I can."_
