@@ -24,12 +24,15 @@ The `README.md` uses standard GitHub-flavored markdown. Current sections:
 
 When updating, maintain the existing tone and structure unless specifically asked to redesign.
 
+The public product name for the drum instrument is **Larry Seyer Drums** (shorter: Seyer Drums or LSD). Do not use older product names in this repo.
+
 ## Licensing Claims
 
 The README states licenses per project. Verify against each project's `LICENSE` file before
 changing that wording — the family moved from AGPLv3 to proprietary on 2026-08-01, and only
-midi2button is MIT. Do not link to `github.com/larryseyer/OTTO`, `.../IDA`, or
-`.../GRIM-for-Reaper`: those repos are private or deleted and 404 for visitors.
+MIDI2Button is MIT. Larry Seyer Drums and IDA are commercial, proprietary software;
+do not describe them as open source, and do not imply they are sold or downloaded from
+the website. Do not link to private or deleted product repositories; they 404 for visitors.
 
 ## Website Deploy Location
 

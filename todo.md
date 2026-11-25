@@ -12,7 +12,7 @@ claims in `website/README.md`, `website/src/docs/whitepaper.md`, `docs/IDA_White
 `docs/LICENSE-THIRD-PARTY.md`, and `docs/SAMPLE-LICENSE.md`.
 
 That sweep is formally assigned to IDA's own session in
-`/Users/larryseyer/AudioDevelopment/OTTO/CROSS_PROJECT_INBOX.md:117` (item 3), together with a
+`/Users/larryseyer/AudioDevelopment/LarrySeyerDrums/CROSS_PROJECT_INBOX.md` (item 3), together with a
 copyright-header sweep of 1,082 files. Doing it from this session would collide with work
 already in flight there. Only `IDA/README.md` was corrected here, because the profile defers
 to it.
@@ -35,7 +35,6 @@ These default to all-rights-reserved, which may or may not be the intent:
 
 - `larryseyer.github.io` (public — the website itself)
 - `IDA2QLPro`
-- `OTTO-Interface-Development`
 - `raspyramid`
 - `AutoSampler`
 - `AKAI-APC-40-Mkii-for-Realearn`
