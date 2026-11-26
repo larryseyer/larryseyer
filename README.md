@@ -28,6 +28,12 @@ After a lifetime in studios, I started building tools for fellow musicians:
 
 ---
 
+## 🛠️ Utilities
+
+- **[CLI Speed Reader](https://github.com/larryseyer/CLI-Speed-Reader)** — A native macOS reader that presents coding-agent replies one word at a time. [Project page](https://larryseyer.com/pages/projects/cli-speed-reader.html)
+
+---
+
 ## 📰 Journalism
 
 I got frustrated with sensationalized news and built something different:
